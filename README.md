@@ -2,7 +2,7 @@
 
 ## install 
 
-##### gitclone https://github.com/EndLessGod/tabchi.git
+##### gitclone https://github.com/MrRadsps/tabchi.git
 ##### cd tanchi
 ##### chmod +x bot
 ##### ./bot install
