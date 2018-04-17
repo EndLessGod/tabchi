@@ -12,4 +12,4 @@
 ## enjoy
 
 # our channel 
-[sps] (https://t.me/joinchat/AAAAAE4lQOVgXks9iHubNw)
+[sps](https://t.me/joinchat/AAAAAE4lQOVgXks9iHubNw)
