@@ -8,3 +8,8 @@
 ##### ./bot install
 ##### ./bot 1
 ##### ./bot autolaunch
+
+## enjoy
+
+# our channel 
+[sps] (https://t.me/joinchat/AAAAAE4lQOVgXks9iHubNw)
